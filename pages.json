@@ -48,7 +48,25 @@
                     "enablePullDownRefresh": false
                 }
                 
+                },
+                {
+                    "path" : "search/search",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "",
+                    "enablePullDownRefresh": false
                 }
+                
+                },
+				{
+				    "path" : "goods_detail/goods_detail",
+				    "style" :                                                                                    
+				{
+				    "navigationBarTitleText": "商品详情",
+				    "enablePullDownRefresh": false
+				}
+				
+				}
             ]
 		}
 	],
